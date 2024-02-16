@@ -1,0 +1,15 @@
+{
+    "name":"G-Notes",
+    "description":"Record any thoughts, note or todo list and share it in seconds.",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_title":"G-Notes",
+        "default_popup": "popup.html",
+        "default_icon": "logo.png"
+    },
+    "default_icon":{
+      "16":"logo512.png",
+      "128":"logo512.png"
+  }
+}
